@@ -3,7 +3,7 @@
 ### I'm a full stack developer :)
 
 - 🚧 Current Project: [gamer.partners][gp-client]
-- 📍 Previous work: [faq-bot][faq-bot-dist],[youtwooz][youtwooz] and [toozmod][toozmod-dist]
+- 📍 Previous work: [faq-bot][faq-bot-dist],[youtwooz][youtwooz] and [toozmod-bot][toozmod-dist]
 
 ### Connect with me
 
@@ -19,7 +19,10 @@
 
 ---
 
-![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&hide_border=true&title_color=C53030)
+![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030)
+![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030)
+![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030)
+![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030)
 
 
 
