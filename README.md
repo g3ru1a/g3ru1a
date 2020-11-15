@@ -20,8 +20,8 @@
 ---
 
 [![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030&bg_color=E2E8F0&hide_border=true)][gp-client]
-[![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030)][faq-bot-dist]
-[![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030)][youtwooz-dist]
+[![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030&bg_color=F7FAFC&hide_border=true)][faq-bot-dist]
+[![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030&bg_color=EDF2F7&hide_border=true)][youtwooz-dist]
 [![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030)][toozmod-dist]
 
 
