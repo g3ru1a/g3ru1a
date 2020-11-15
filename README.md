@@ -15,7 +15,7 @@
 ---
 
 ![G3ru1a's stats](https://github-readme-stats.vercel.app/api?username=g3ru1a&show_icons=true&hide_border=true&title_color=C53030&icon_color=C53030)
-![G3ru1a's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3ru1a&hide=html,java&hide_border=true&hide_title=true)
+![G3ru1a's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3ru1a&hide=html,java&hide_border=true&title_color=C53030)
 
 ---
 
