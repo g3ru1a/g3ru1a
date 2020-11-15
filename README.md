@@ -19,15 +19,16 @@
 
 ---
 
-![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030)
-![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030)
-![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030)
-![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030)
+[![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030)][gp-client]
+[![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030)][faq-bot-dist]
+[![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030)][youtwooz-dist]
+[![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030)][toozmod-dist]
 
 
 
 [gp-client]: https://github.com/g3ru1a/gamer-partners-www
 [youtwooz]: https://youtwooz.com
+[youtwooz-dist]: https://github.com/g3ru1a/youtwooz-www
 [faq-bot-dist]: https://github.com/g3ru1a/faq-discord-bot
 [toozmod-dist]: https://github.com/g3ru1a/toozmod
 [twitter]: https://twitter.com/g3ru1a
