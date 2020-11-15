@@ -16,7 +16,7 @@
 
 <img align="left" alt="gerula's stats" src="https://github-readme-stats.vercel.app/api?username=g3ru1a&show_icons=true&hide_border=true&title_color=C53030&icon_color=C53030" />
 
-<img align="left" alt="gerula's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3ru1a&hide=html,java&layout=compact">
+<img align="left" alt="gerula's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3ru1a&hide=html,java&layout=compact&hide_border=true">
 
 
 
