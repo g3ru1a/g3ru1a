@@ -18,7 +18,11 @@
 
 <img align="left" alt="gerula's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3ru1a&hide=html,java&layout=compact&hide_border=true&hide_title=true">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www)][gp-client]
+<br />
+
+---
+
+
 
 
 
