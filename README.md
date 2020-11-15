@@ -9,7 +9,7 @@
 
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">]G3ru1a#1337
+[<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
 
 
 [gp-client]: https://github.com/g3ru1a/gamer-partners-www
@@ -18,3 +18,4 @@
 [toozmod-dist]: https://github.com/g3ru1a/toozmod
 [twitter]: https://twitter.com/g3ru1a
 [linkedin]: https://www.linkedin.com/in/egidiufarcas/
+[discord]: https://discordapp.com/users/182520880277094400
