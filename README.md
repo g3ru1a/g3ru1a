@@ -11,6 +11,9 @@
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
 
+---
+
+<img align="left" alt="gerula's stats" src="https://github-readme-stats.vercel.app/api?username=g3ru1a&show_icons=true&hide_border=true" />
 
 [gp-client]: https://github.com/g3ru1a/gamer-partners-www
 [youtwooz]: https://youtwooz.com
