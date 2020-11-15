@@ -10,7 +10,7 @@
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
-
+<br>
 
 ---
 
