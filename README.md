@@ -21,8 +21,7 @@
 
 [![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030)][gp-client]
 [![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030)][faq-bot-dist]
-[![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030)][youtwooz-dist]
-[![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030)][toozmod-dist]
+
 
 
 
