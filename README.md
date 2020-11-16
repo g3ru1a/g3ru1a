@@ -19,7 +19,8 @@
 
 ---
 
-[![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030&bg_color=F7FAFC&hide_border=true)][gp-client]
+[![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=gamer-partners&repo=www&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][gp-client]
+[![Gamer Partners GateWay](https://github-readme-stats.vercel.app/api/pin/?username=gamer-partners&repo=api-gateway&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][gp-gateway]
 [![Scaffolding CLI](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=project-scaffolding&title_color=C53030&bg_color=F7FAFC&hide_border=true)][cli-scaffold-dist]
 [![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030&bg_color=F7FAFC&hide_border=true)][faq-bot-dist]
 [![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030&bg_color=F7FAFC&hide_border=true)][youtwooz-dist]
@@ -27,7 +28,8 @@
 
 
 
-[gp-client]: https://github.com/g3ru1a/gamer-partners-www
+[gp-client]: https://github.com/gamer-partners/www
+[gp-gateway]: https://github.com/gamer-partners/api-gateway
 [youtwooz]: https://youtwooz.com
 [youtwooz-dist]: https://github.com/g3ru1a/youtwooz-www
 [faq-bot-dist]: https://github.com/g3ru1a/faq-discord-bot
