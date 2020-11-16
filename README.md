@@ -20,6 +20,7 @@
 ---
 
 [![Gamer Partners](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=gamer-partners-www&title_color=C53030&bg_color=F7FAFC&hide_border=true)][gp-client]
+[![Scaffolding CLI](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=project-scaffolding&title_color=C53030&bg_color=F7FAFC&hide_border=true)][cli-scaffold-dist]
 [![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030&bg_color=F7FAFC&hide_border=true)][faq-bot-dist]
 [![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030&bg_color=F7FAFC&hide_border=true)][youtwooz-dist]
 [![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030&bg_color=F7FAFC&hide_border=true)][toozmod-dist]
@@ -34,3 +35,4 @@
 [twitter]: https://twitter.com/g3ru1a
 [linkedin]: https://www.linkedin.com/in/egidiufarcas/
 [discord]: https://discordapp.com/users/182520880277094400
+[cli-scaffold-dist]: https://github.com/g3ru1a/project-scaffolding
