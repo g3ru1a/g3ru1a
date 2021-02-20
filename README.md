@@ -2,7 +2,7 @@
 
 ### I'm a full stack developer :)
 
-- 🚧 Current Project: [gamer.partners][gp-client]
+- 🚧 Current Project: [dave-bot][dave-bot-web]
 - 📍 Previous work: [faq-bot][faq-bot-dist],[youtwooz][youtwooz] and [toozmod-bot][toozmod-dist]
 
 ### Connect with me
@@ -28,7 +28,7 @@
 
 
 
-[gp-client]: https://github.com/gamer-partners/www
+[dave-bot-web]: https://github.com/dave-discord-bot/web
 [gp-gateway]: https://github.com/gamer-partners/api-gateway
 [youtwooz]: https://youtwooz.com
 [youtwooz-dist]: https://github.com/g3ru1a/youtwooz-www
