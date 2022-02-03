@@ -1,4 +1,4 @@
-## Hi there, I'm Egidiu - aka Gerula
+## Hi there, I'm Gerula
 
 ### I'm a full stack developer :)
 
@@ -7,7 +7,6 @@
 ### Connect with me
 
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
-[<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
 <br>
 
@@ -20,5 +19,4 @@
 
 [oktracker-core]: https://github.com/g3ru1a/oktracker-core
 [twitter]: https://twitter.com/g3ru1a
-[linkedin]: https://www.linkedin.com/in/egidiufarcas/
 [discord]: https://discordapp.com/users/182520880277094400
