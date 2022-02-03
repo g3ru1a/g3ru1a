@@ -2,8 +2,7 @@
 
 ### I'm a full stack developer :)
 
-- 🚧 Current Project: [dave-bot][dave-bot-web]
-- 📍 Previous work: [faq-bot][faq-bot-dist],[youtwooz][youtwooz] and [toozmod-bot][toozmod-dist]
+- 🚧 Current Project: [OkTracker][oktracker-core]
 
 ### Connect with me
 
@@ -19,20 +18,7 @@
 
 ---
 
-[![Scaffolding CLI](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=project-scaffolding&title_color=C53030&bg_color=F7FAFC&hide_border=true)][cli-scaffold-dist]
-[![FAQ-Bot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=faq-discord-bot&title_color=C53030&bg_color=F7FAFC&hide_border=true)][faq-bot-dist]
-[![Youtwooz](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=youtwooz-www&title_color=C53030&bg_color=F7FAFC&hide_border=true)][youtwooz-dist]
-[![ToozmodBot](https://github-readme-stats.vercel.app/api/pin/?username=g3ru1a&repo=toozmod&title_color=C53030&bg_color=F7FAFC&hide_border=true)][toozmod-dist]
-
-
-
-[dave-bot-web]: https://github.com/dave-discord-bot/web
-[gp-gateway]: https://github.com/gamer-partners/api-gateway
-[youtwooz]: https://youtwooz.com
-[youtwooz-dist]: https://github.com/g3ru1a/youtwooz-www
-[faq-bot-dist]: https://github.com/g3ru1a/faq-discord-bot
-[toozmod-dist]: https://github.com/g3ru1a/toozmod
+[oktracker-core]: https://github.com/g3ru1a/oktracker-core
 [twitter]: https://twitter.com/g3ru1a
 [linkedin]: https://www.linkedin.com/in/egidiufarcas/
 [discord]: https://discordapp.com/users/182520880277094400
-[cli-scaffold-dist]: https://github.com/g3ru1a/project-scaffolding
