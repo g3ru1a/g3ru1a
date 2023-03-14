@@ -2,6 +2,7 @@
 
 ### I'm a full stack developer :)
 
-- 🚧 Current Project: [OkTracker][oktracker-core]
+- 🚧 Current Projects: [OkTracker][oktracker-core] & [MangaDB][mangadb-api]
 
 [oktracker-core]: https://github.com/g3ru1a/oktracker-core
+[mangadb-api]: https://github.com/g3ru1a/mangadb-api
