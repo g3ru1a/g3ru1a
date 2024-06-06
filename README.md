@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/g3ru1a" target="blank"><img src="https://img.shields.io/twitter/follow/g3ru1a?logo=twitter&style=for-the-badge" alt="g3ru1a" /></a> </p>
 
-- 🔭 I’m currently working on [OkTracker][oktracker-git] and [MangaDB][mangadb-git] 
+- 🔭 I’m currently working on [XIV RigMaster][xivrigmaster-git]
 
 - 🌱 I’m currently learning **Ionic**, **Swagger** and **Mkdocs**
 
-- 🤝 I’m looking for help with [MangaDB][mangadb-git]
-
-- 📫 How to reach me **egidiufarcas@maze.ws**
+- 📫 How to reach me **yenpress** on Discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +23,4 @@
 
 <p style="width:50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g3ru1a&theme=onedark" alt="g3ru1a" /></p>
 
-[oktracker-git]: https://github.com/g3ru1a/oktracker-core
-[mangadb-git]: https://github.com/g3ru1a/mangadb-api
+[xivrigmaster-git]: https://github.com/g3ru1a/XIV-RigMaster
