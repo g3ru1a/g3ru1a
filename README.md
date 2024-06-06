@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm G3ru1a / Ed</h1>
-<h3 align="center">A Code Enthusiast from Romania, currently residing in Ireland.</h3>
+<h1 align="center">Hi 👋, I'm Gerula</h1>
 
 <p align="left"> <a href="https://twitter.com/g3ru1a" target="blank"><img src="https://img.shields.io/twitter/follow/g3ru1a?logo=twitter&style=for-the-badge" alt="g3ru1a" /></a> </p>
 
